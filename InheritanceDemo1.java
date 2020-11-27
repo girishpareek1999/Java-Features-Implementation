@@ -1,3 +1,4 @@
+// The main method call from obj1 will print 4 and 4.2
 public class Main {
 
     public static void main(String[] args) {
